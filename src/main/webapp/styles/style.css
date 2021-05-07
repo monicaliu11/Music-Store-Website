@@ -1,0 +1,13 @@
+.beauty {
+    border-collapse: collapse;
+}
+
+.beauty td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.beauty > tbody > tr:hover {
+    background-color: #ffff99;
+}
